@@ -24,12 +24,3 @@ Mod authoring
 * Unrestricted map size. (Although technical limits restrict GAMEMAPS format to 181x181.)
 * Uses scripting formats and data formats similar to those of ZDoom.
     * Doom editing utilities work with ECWolf. (Except for levels)
-
-Note that until ECWolf 2.0, while radical changes are not excepted, backwards compatibility for mods will not necessarily be kept.  See [the wiki](http://maniacsvault.net/ecwolf/wiki/Version_compatibility) for more information.
-
-Links
------
-
-* [Website](http://maniacsvault.net/ecwolf/)
-* [Forums](http://forum.drdteam.org/viewforum.php?f=174)
-* [Wiki](http://maniacsvault.net/ecwolf/wiki/)
